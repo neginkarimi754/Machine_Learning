@@ -1,3 +1,3 @@
 # Machine_Learning
-Logistic Regression
-Linear Regression
+* Logistic Regression
+* Linear Regression
