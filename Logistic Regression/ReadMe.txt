@@ -1,1 +1,0 @@
-in this project we will be working with a fake advertising dataset,in dicating whether or not a particular interner user click an advetisement.we will try to created a model that will predict whether or not they will click on an advertisement based off the features of that user.
